@@ -1,7 +1,7 @@
 # Ticket Flow
 
-[![Ruby](https://img.shields.io/badge/Ruby-v3.2.4-red)](https://www.https://www.ruby-lang.org/en/downloads/releases/)
-[![Rails](https://img.shields.io/badge/Rails-v7.1-red)](https://rubygems.org/gems/rails/versions/8.0.1)
+[![Ruby](https://img.shields.io/badge/Ruby-v3.4-red)](https://www.https://www.ruby-lang.org/en/downloads/releases/)
+[![Rails](https://img.shields.io/badge/Rails-v8.0-red)](https://rubygems.org/gems/rails/versions/8.0.1)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v14-blue)](https://www.postgresql.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.3-purple)](https://getbootstrap.com/)
 
